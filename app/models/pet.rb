@@ -1,0 +1,2 @@
+model Pet < ApplicationRecord
+end
